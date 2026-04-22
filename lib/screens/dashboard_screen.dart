@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import '../models/task_model.dart';
 import '../services/ai_schedule_service.dart';
 import 'package:provider/provider.dart';
-import '../provider/schedule_provider.dart';
+import '../providers/schedule_provider.dart';
 import 'recommendation_screen.dart';
 import 'task_input_screen.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:scheduler_resolver/provider/schedule_provider.dart';
+import 'package:scheduler_resolver/providers/schedule_provider.dart';
 import 'package:scheduler_resolver/services/ai_schedule_service.dart';
 import 'screens/dashboard_screen.dart';
 
